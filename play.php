@@ -1,7 +1,7 @@
 <?php
 // ========= CONFIG =========
 $JSON_URL = "https://YOUR-VERCEL-APP.vercel.app/channels.json";
-$AD_M3U8  = "https://YOUR-RENDER-APP.onrender.com/ad/ad.m3u8"; // 10–15 sec ad
+$AD_M3U8  = "https://m3uplaylist-plum.vercel.app/output.m3u8"; // 10–15 sec ad
 // ==========================
 
 if (!isset($_GET['id'])) {
