@@ -1,0 +1,58 @@
+{
+  "criclife2": "https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd",
+  "wfcricket": "https://ottb.live.cf.ww.aiv-cdn.net/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+  "criclife3": "https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd",
+
+  "starhindi": "http://103.140.254.2:3500/live/1998.m3u8",
+  "foxcricket501": "http://537c2e45.edmonst.net/iptv/XTLZN9LAR98K4Z/19146/index.m3u8",
+  "skysportscricket": "http://f4d0yznb.klaipedalt.xyz/iptv/VFF9R74ZCZFGWQLUWGD7VL6G/7343/index.m3u8",
+
+  "willowsports": "https://a170aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+  "willowhq": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+
+  "bpl26akkash": "https://vgdjq6dyk5.gpcdn.net/bpk-tv/1707/output/index.m3u8",
+  "bpl26tapmad": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-29514-Enc-Seriea-1.3/master.m3u8",
+
+  "bplfinalrajschat": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/codfb0rmrr/out/v1/87e9512ea3ee419189c100d47f3f01b7/cenc.mpd",
+
+  "willowalt": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+
+  "sonyliveevent": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-ENGVSSL/master.m3u8",
+  "googledaievent": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+
+  "willowhqbackup": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+
+  "cricketliveck": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/smgyotbhup/out/v1/f4ff6633924f4c7ebc76de9cd9db226a/cenc.mpd",
+
+  "skysport1": "http://filex.me:8080//live/atifrehman/000671/819602.ts",
+  "skysport2": "http://filex.me:8080//live/atifrehman/000671/819603.ts",
+  "skysport3": "http://filex.me:8080//live/atifrehman/000671/819604.ts",
+  "skysport4": "http://filex.me:8080//live/atifrehman/000671/819605.ts",
+  "skysport5": "http://filex.me:8080//live/atifrehman/000671/819606.ts",
+  "skysport6": "http://filex.me:8080//live/atifrehman/000671/819607.ts",
+  "skysport7": "http://filex.me:8080//live/atifrehman/000671/819608.ts",
+  "skysport8": "http://filex.me:8080//live/atifrehman/000671/819609.ts",
+  "skysport9": "http://filex.me:8080//live/atifrehman/000671/819610.ts",
+  "skysportselect": "http://filex.me:8080//live/atifrehman/000671/819611.ts",
+
+  "starsports1_4k": "http://filex.me:8080//live/atifrehman/000671/247159.ts",
+  "starsports2_4k": "http://filex.me:8080//live/atifrehman/000671/247160.ts",
+  "starsports2hindi_4k": "http://filex.me:8080//live/atifrehman/000671/910889.ts",
+  "starsports3_4k": "http://filex.me:8080//live/atifrehman/000671/846950.ts",
+  "starsportsselect1_4k": "http://filex.me:8080//live/atifrehman/000671/247161.ts",
+  "starsportsselect2_4k": "http://filex.me:8080//live/atifrehman/000671/247162.ts",
+
+  "starsports1_hd": "http://filex.me:8080//live/atifrehman/000671/52094.ts",
+  "starsports2_hd": "http://filex.me:8080//live/atifrehman/000671/52096.ts",
+  "starsports1hindi_hd": "http://filex.me:8080//live/atifrehman/000671/90342.ts",
+  "starsportsselect1_hd": "http://filex.me:8080//live/atifrehman/000671/52098.ts",
+  "starsportsselect2_hd": "http://filex.me:8080//live/atifrehman/000671/52100.ts",
+
+  "starsports1_fhdtamil": "http://filex.me:8080//live/atifrehman/000671/519915.ts",
+  "starsports1_fhdtamil_ts": "http://filex.me:8080//live/atifrehman/000671/519916.ts",
+
+  "starsports1_hd_alt": "http://filex.me:8080//live/atifrehman/000671/499596.ts",
+  "starsports2_hd_alt": "http://filex.me:8080//live/atifrehman/000671/499597.ts",
+  "starsports3_hd_alt": "http://filex.me:8080//live/atifrehman/000671/499598.ts",
+  "starsportsselect1_hd_alt": "http://filex.me:8080//live/atifrehman/000671/499599.ts"
+}
